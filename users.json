@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "address": "123 Main St, New York",
+    "phone": "+1 555-1234",
+    "age": 30,
+    "dob": "1993-07-15",
+    "job": "Software Engineer"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "address": "456 Elm St, San Francisco",
+    "phone": "+1 555-5678",
+    "age": 25,
+    "dob": "1998-02-20",
+    "job": "Product Manager"
+  },
+  {
+    "id": "3",
+    "name": "Michael Johnson",
+    "address": "789 Oak St, Chicago",
+    "phone": "+1 555-9012",
+    "age": 35,
+    "dob": "1988-11-05",
+    "job": "Data Scientist"
+  },
+  {
+    "id": "4",
+    "name": "Emily Wilson",
+    "address": "321 Pine St, Los Angeles",
+    "phone": "+1 555-3456",
+    "age": 28,
+    "dob": "1995-09-10",
+    "job": "Marketing Specialist"
+  },
+  {
+    "id": "5",
+    "name": "David Brown",
+    "address": "987 Maple St, Houston",
+    "phone": "+1 555-7890",
+    "age": 32,
+    "dob": "1991-04-25",
+    "job": "Financial Analyst"
+  }
+]
