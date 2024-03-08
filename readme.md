@@ -24,7 +24,7 @@ This will run the application on port 3000.
 Once the application is running, you can access user information by opening your web browser and navigating to the following URL:
 
 ```
-http://localhost:3000/ShowUser/3
+http://localhost:3000/showUser/3
 ```
 Replace 3 in the URL with the desired user ID to retrieve information about that user.
 
